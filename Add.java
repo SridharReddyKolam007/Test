@@ -1,7 +1,7 @@
 public class Add {
     public static void main(String[] args) {
         // Print a message
-        System.out.println("Hello, World!");
+        System.out.println("Addition");
 
         // Declare two numbers
         int a = 10;
